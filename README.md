@@ -1,5 +1,10 @@
 # PSL-Management-System
-This is web based application. Further detail goto folder named: "Project-Documents".
+This is web based application. 
+Front-end: HTML,CSS,JAVASCRIPT.
+Back-end: PHP 5
+Database: MySql
+
+Further detail goto folder named: "Project-Documents".
 
 Purpose: The purpose to create these leagues is too promote cricket in our country.
 
