@@ -1,5 +1,5 @@
 # PSL-Management-System
-This is web based application.
+This is web based application. Further detail goto folder named: "Project-Documents".
 
 Purpose: The purpose to create these leagues is too promote cricket in our country.
 
